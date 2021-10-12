@@ -1,7 +1,7 @@
 from django.db import models
 from apps.clientes.models import Cliente
 from apps.servicos.models import Servico
-from apps.Funcionarios.models import Funcionario
+from apps.funcionarios.models import Funcionario
 
 
 # Create your models here.
